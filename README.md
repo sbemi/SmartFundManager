@@ -10,7 +10,7 @@
   The Innovator (proposer) can withdraw partial amounts till his withdrawl value is equal to proposed value
   
 -- For Installation run the following steps :
-   1)Unzip the SmartFundManager.tar.gz using Winzip or any other compatable tool
+   1)Extract the SmartFundManager.tar.gz in ubuntu any other compatable tool (this is the video just in case you want to know how to extract tar.gz file in ubuntu https://youtu.be/KKbGGbczheI)
    2)ganache-cli
    3)npm install
    4)truffle compile

@@ -1,5 +1,5 @@
 # SmartFundManager
--- Description of Requirement : 
+-- Description of Project for Consensys Developer Prograrm 2018 : 
 SmartFundManager is a collborative tool where Startups(Innvoators) and Investors collaborate to get the funding for the projects.
 Innovators come up with Project for their ideas(amount of funds required to implement their idea). 
 Then there are also group of Investors who would invest in those Projects (ideas). 

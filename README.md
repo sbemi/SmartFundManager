@@ -1,7 +1,7 @@
 # SmartFundManager
 -- Description of Project for Consensys Developer Prograrm 2018 : 
 SmartFundManager is a collborative tool where Startups(Innvoators) and Investors collaborate to get the funding for the projects.
-Innovators come up with Project for their ideas(amount of funds required to implement their idea). 
+Innovators come up with Projects(amount of funds required to implement their idea). 
 Then there are also group of Investors who would invest in those Projects (ideas). 
 The First step is investors are responsible for funding ether to wallet(allows multi signature) and innovators can propose a value to get funds for their projects. 
 The innovative Projects can be proposed only when the investor contribution period has ended. 
